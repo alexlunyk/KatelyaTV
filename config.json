@@ -20,11 +20,6 @@
       "api": "https://api.yongjiuzy.cc/provide/vod",
       "name": "永久资源",
       "is_adult": false
-    },
-    "bdzy": {
-      "api": "https://api.1080zyku.com/inc/apijson_vod.php",
-      "name": "百度资源",
-      "is_adult": false
     }
   }
 }
